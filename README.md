@@ -2,7 +2,8 @@
 A contact card about FAMOUS ETHIOPIAN SINGERS
 
 <h1>personal information</h1>
-<tr>
+<table>
+ <tr>
   <td>dagim shewarega</td>
 </tr>
 <tr>
@@ -11,4 +12,6 @@ A contact card about FAMOUS ETHIOPIAN SINGERS
 <tr>
   <td>FW4689</td>
 </tr>
+ 
+</table>
 

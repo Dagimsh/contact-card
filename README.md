@@ -15,3 +15,6 @@ A contact card about FAMOUS ETHIOPIAN SINGERS
  
 </table>
 
+<h1>preview</h1>
+<img width="1446" height="627" alt="image" src="https://github.com/user-attachments/assets/1212b1a6-0d1b-4fa1-ab38-012aabb7ba70" />
+

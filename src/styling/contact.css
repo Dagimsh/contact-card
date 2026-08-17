@@ -1,0 +1,52 @@
+/* contact.css */
+.contact-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  padding: 1.5rem;
+  border-radius: 16px;
+  color: #1e293b;
+  margin: 1rem 0;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.contact-card:hover {
+  transform: translateY(-4px);
+  border-color: #9333ea;
+  box-shadow: 0 8px 24px rgba(147, 51, 234, 0.12);
+}
+
+.profile-picture {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #9333ea;
+  flex-shrink: 0;
+}
+
+.contact-info {
+  text-align: left;
+}
+
+.contact-name {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.contact-email,
+.contact-phone {
+  margin: 0.3rem 0;
+  font-size: 1rem;
+  color: #475569;
+}
+
+.contact-email strong,
+.contact-phone strong {
+  color: #7c3aed;
+}

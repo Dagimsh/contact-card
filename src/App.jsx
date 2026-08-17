@@ -11,36 +11,36 @@ function App() {
       </header>
 
       <div className="contacts-list">
-        <Contact 
-          name="Tewodros Kassahun" 
-          email="Tewodros@gmail.com" 
-          phone="+251 7911 123456" 
-          profile_picture="teddy.webp" 
+        <Contact
+          name="Tewodros Kassahun"
+          email="Tewodros@gmail.com"
+          phone="+251 7911 123456"
+          profile_picture="teddy.webp"
         />
-        <Contact 
-          name="Mehammod Ahmed" 
-          email="mehammod@gmail.com" 
-          phone="+251 305 555 0199" 
-          profile_picture="mehamood.webp" 
+        <Contact
+          name="Mehammod Ahmed"
+          email="mehammod@gmail.com"
+          phone="+251 305 555 0199"
+          profile_picture="mehamood.webp"
         />
-        <Contact 
-          name="Alemayehu Eshete" 
-          email="alemayehu@gmail.com" 
-          phone="+251 11 123 4567" 
-          profile_picture="alemayehu.webp" 
+        <Contact
+          name="Alemayehu Eshete"
+          email="alemayehu@gmail.com"
+          phone="+251 11 123 4567"
+          profile_picture="alemayehu.webp"
         />
-         <Contact 
-          name="Egigayew Shibabaw" 
-          email="egigayew@gmail.com" 
-          phone="+251 11 987 6543" 
-          profile_picture="gigi.webp" 
+        <Contact
+          name="Egigayew Shibabaw"
+          email="egigayew@gmail.com"
+          phone="+251 11 987 6543"
+          profile_picture="gigi.webp"
         />
 
-         <Contact 
-          name="Cristiano Ronaldo" 
-          email="ronaldo@gmail.com" 
-          phone="+966 50 123 4567" 
-          profile_picture="aster.webp" 
+        <Contact
+          name="Aster Aweke"
+          email="aster@gmail.com"
+          phone="+251 555 1234567"
+          profile_picture="aster.webp"
         />
       </div>
     </div>

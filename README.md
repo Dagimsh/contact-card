@@ -2,6 +2,13 @@
 A contact card about FAMOUS ETHIOPIAN SINGERS
 
 <h1>personal information</h1>
-<td>dagim shewarega</td>
-<td>DRBSE2401B</td>
-<td>FW4689</td>
+<tr>
+  <td>dagim shewarega</td>
+</tr>
+<tr>
+  <td>DRBSE2401B</td>
+</tr>
+<tr>
+  <td>FW4689</td>
+</tr>
+

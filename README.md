@@ -1,2 +1,7 @@
 <h1>contact card</h1>   
-singer conatct page for ethiopians famius singers
+A contact card about FAMOUS ETHIOPIAN SINGERS
+
+<h1>personal information</h1>
+<td>dagim shewarega</td>
+<td>DRBSE2401B</td>
+<td>FW4689</td>
